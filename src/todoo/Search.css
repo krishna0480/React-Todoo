@@ -1,0 +1,14 @@
+
+.text{
+    margin: 0 5px 0 10px;
+    display: block;
+}
+.btn1{
+    margin: 20px auto;
+    display: block;
+
+}
+.texture{
+    margin: 20px auto;
+    display: inline-block;
+}
